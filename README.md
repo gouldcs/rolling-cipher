@@ -2,7 +2,7 @@
 A Python implementation of a Rolling Cipher
 
 ## How to run
- `python3 rolling_cypher.py`
+ `python3 rolling_cypher.py -t "Hello, World!"`
  
 ## Options
 
